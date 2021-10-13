@@ -6,3 +6,6 @@
 
 ## TODO2
 定時取得的CPU使用率，如果持續多久都高於一定的比率，進行通知或是處理
+
+## Reference
+https://dotblogs.com.tw/larrynung/2013/03/18/97991
